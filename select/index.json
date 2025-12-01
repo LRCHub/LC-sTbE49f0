@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋はきっと急上昇☆-Rock Buster-",
+  "base_artist": "のぼる↑、メグッポイド",
+  "createdAt": "2025-12-01T19:36:52.234010Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋はきっと急上昇☆-Rock Buster- (feat. GUMI)",
+      "artist": "のぼる↑",
+      "has_synced": false,
+      "path": "select/pl_01_恋はきっと急上昇☆-Rock_Buster-_(feat._GUMI)_のぼる↑.txt"
+    }
+  ]
+}
